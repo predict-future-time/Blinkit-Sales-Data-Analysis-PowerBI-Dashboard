@@ -25,5 +25,5 @@ It highlights total sales, number of items, average sales, average rating, outle
 - Custom Styling and Icons
 - Data Analytics and Visualization Techniques
 
-## 📁 Project Structure
+
 
